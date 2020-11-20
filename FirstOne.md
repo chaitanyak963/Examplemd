@@ -99,6 +99,49 @@ CheckBoxes
 
 
 
+Tables
+=======
+
+S.No | Name
+-----|------
+01   | Chiru
+02   | Cherry
+03   | Power
+
+
+Roll Number | Email Address | Name
+:----------:|---------------|------
+01 | chaitanya.k@apssdc.in | chaitanya        
+
+Roll Number | Email Address | Name
+:-----------|---------------|------
+01 | chaitanya.k@apssdc.in | chaitanya  
+
+Roll Number | Email Address | Name
+-----------:|---------------|------
+01 | chaitanya.k@apssdc.in | chaitanya  
+
+
+
+Add Images
+==========
+
+![picture](https://www.tigers-world.com/wp-content/uploads/Bengal.jpg)
+
+<img src="https://www.tigers-world.com/wp-content/uploads/Bengal.jpg" width=300 height=150/>
+
+![picture](bengal_tiger_snowfall_winter_4k.jpg)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
