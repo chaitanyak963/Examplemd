@@ -130,7 +130,7 @@ Add Images
 
 <img src="https://www.tigers-world.com/wp-content/uploads/Bengal.jpg" width=300 height=150/>
 
-![picture](bengal_tiger_snowfall_winter_4k.jpg)
+![picture](https://github.com/chaitanyak963/Examplemd/raw/main/bengal_tiger_snowfall_winter_4k.jpg)
 
 
 
